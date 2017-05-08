@@ -11,7 +11,7 @@ RUN apk update && apk add --no-cache \
   php5 \
   php5-apache2 \
   php5-pgsql \
-  postgresql-client \
+  postgresql \
   wget \
   unzip
 
